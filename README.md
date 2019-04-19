@@ -3,5 +3,7 @@
 
 <a href="https://telfizion.ir/aboutus">About us</a>
 
+Telfizion has been developed by django platform
+
 
 
